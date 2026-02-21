@@ -1,5 +1,5 @@
 template: Martin Template.pptx
-template: hipodz.pptx
+#template: hipodz.pptx
 cardlayout: horizontal
 baseTextSize: 20
 CardColour: BACKGROUND 2
